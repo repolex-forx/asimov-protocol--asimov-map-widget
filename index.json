@@ -1,0 +1,11 @@
+{
+  "org": "asimov-protocol",
+  "repo": "asimov-map-widget",
+  "versions": [
+    {
+      "commit": "6b37ffff3ee15d9646232d44f9c0f90f57a34939",
+      "tag": "main",
+      "parsed_at": "2026-09-27T19:35:19.627110+00:00"
+    }
+  ]
+}
